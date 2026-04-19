@@ -1,6 +1,6 @@
 # luminescence-data-analyser
 Python-based spectral data analysis toolkit for nanophosphor research
-# 🔬 Luminescence Data Analyser
+#  Luminescence Data Analyser
 
 A Python-based data science toolkit for analysing 
 photoluminescence (PL) emission spectra of 
@@ -12,7 +12,7 @@ PhD in Physics (Optical Spectroscopy)
 MSc Data Science & Analytics
 [LinkedIn](https://linkedin.com/in/pratibharesearcher)
 
-## 📌 Features
+##  Features
 - Temperature-dependent PL spectral analysis
 - Peak detection using SciPy
 - Thermal quenching behaviour
